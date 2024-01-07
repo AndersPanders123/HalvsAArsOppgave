@@ -3,10 +3,23 @@
     padding: 0;
 }
 
-h1.kkt {
-    text-align: center;
+.kkt {
     font-size: 72px;
-    background-color:#016748;
-    color: white; 
-    
+    color: rgb(17, 14, 14);
+    margin-left: 20px;
+    display: flex;
+}
+
+.kkt img {
+    width: auto;
+    height: 48px;
+    padding-top: 17px;
+}
+.header {
+    background-color:hsl(162, 98%, 20%);
+    color: hsl(162, 98%, 20%);
+} 
+.kkt2 {
+    display: flex;
+    margin-left: 1300px;
 }
