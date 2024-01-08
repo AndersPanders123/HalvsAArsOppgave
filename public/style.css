@@ -10,22 +10,41 @@
 }
 
 .kkt {
-    font-size: 72px;
+    font-size: 30px;
     color: rgb(17, 14, 14);
     margin-left: 20px;
     display: flex;
+    padding-bottom: 150px;
 }
 
 .kkt img {
     width: auto;
-    height: 48px;
-    padding-top: 17px;
+    height: 45px;
+    padding-top: 12px;
 }
 .header {
-    background-color:hsl(162, 98%, 20%);
-    color: hsl(162, 98%, 20%);
+    background-color:rgb(0, 88, 80);
+    color: rgb(0, 88, 80);
 } 
 .kkt2 {
     display: flex;
     margin-left: 1300px;
+}
+
+.box1 {
+    background-color: #009d4f;
+    max-width: 10%;
+    color: azure;
+    padding: 100px;
+    border-radius: 10%;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+}
+
+.nedebar {
+    background-color: #009d4f;
 }
