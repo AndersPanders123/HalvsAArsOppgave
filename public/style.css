@@ -12,12 +12,19 @@
 .kkt {
     font-size: 30px;
     color: rgb(17, 14, 14);
-    margin-left: 20px;
+    justify-content: center;
     display: flex;
-    padding-bottom: 150px;
+    margin-bottom: 150px;
+
 }
 
 .kkt img {
+    width: auto;
+    height: 45px;
+    padding-top: 12px;
+}
+
+.leggtilimg img {
     width: auto;
     height: 45px;
     padding-top: 12px;
@@ -33,14 +40,12 @@
 
 .box1 {
     background-color: #009d4f;
-    max-width: 20%;
-    width: 20%;
-    max-height: 20%;
+    max-width: 10%;
     color: azure;
-    padding: 100px;
-    border-radius: 2%;
-    font-size: 30px;
-
+    padding: 50px;
+    margin: 100px;
+    border-radius: 5%;
+    font-size: 32px;
 }
 
 .box {
@@ -51,4 +56,10 @@
 
 .nedebar {
     background-color: #009d4f;
+}
+
+
+.knapp {
+    justify-content: center;
+    display: flex;
 }
