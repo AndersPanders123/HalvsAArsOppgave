@@ -1,0 +1,4 @@
+SSH sertifikat brukes til og værifisere brukere slik at det skal være med sikkert og koble seg til en annen marskin over potensialt usikkra nettverk. Det er som regel to filer.
+Pivate Key
+Public Key
+Når en bruker skal koble seg til en annen pc med hjelp av SSH så sender public key en type signal til servern og da sjekker servern om du har du har 'authorized_keys' hvis du har det får du tilgang til systemet.

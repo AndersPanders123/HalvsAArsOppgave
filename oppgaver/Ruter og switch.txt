@@ -1,0 +1,1 @@
+en ruter er kobler sammen forskjellige nettverk mens en ruter er en enhet som man kan bruke til og koble sammen enheter på det samme lokale nettverket

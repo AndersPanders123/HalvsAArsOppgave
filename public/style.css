@@ -68,8 +68,13 @@
 .knapp {
     justify-content: center;
     display: flex;
-    background-color: #009d4f;
     padding: 10px;
+}
+.knapp1 {
+    max-width: 30%;
+    background-color: #009d4f;
+    padding: 5px;
+    border-radius: 5px;
 }
 
 .footer {
@@ -89,4 +94,22 @@
 
 .footer img {
     max-width: 40px;
+}
+
+.href {
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.jsjs {
+    max-width: 10%;
+    background-color: #009d4f;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.jsjs a {
+    text-decoration: none;
+    color: white;
 }
