@@ -14,7 +14,7 @@
     color: rgb(17, 14, 14);
     justify-content: center;
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 
 }
 
@@ -43,7 +43,8 @@
     max-width: 10%;
     color: azure;
     padding: 50px;
-    margin: 100px;
+    margin-top: 50px;
+    margin: 50px;
     border-radius: 5%;
     font-size: 32px;
 }
@@ -58,8 +59,34 @@
     background-color: #009d4f;
 }
 
+.hvavildulåne {
+    text-align: center;
+    font-size: 40px;
+    margin: 10px;
 
+}
 .knapp {
     justify-content: center;
     display: flex;
+    background-color: #009d4f;
+    padding: 10px;
+}
+
+.footer {
+    background-color:#009d4f;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    height: 180px;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.parrent div{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.footer img {
+    max-width: 40px;
 }
